@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../../../../../../../../Programs/Vivado/2025.1/Vivado/data/rsb/busdef" \
+"../../../../SPI_Vivado.srcs/sources_1/new/RAM.v" \
+"../../../../SPI_Vivado.srcs/sources_1/new/SPI_slave.v" \
+"../../../../SPI_Vivado.srcs/sources_1/new/SPI_wrapper.v" \
+"../../../../SPI_Vivado.srcs/sources_1/new/SPI_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

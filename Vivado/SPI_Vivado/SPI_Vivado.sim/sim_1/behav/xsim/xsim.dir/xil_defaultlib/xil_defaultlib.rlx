@@ -1,0 +1,9 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+D:/Mohamed/Education/Digital_IC_Design/Projects/Projects/SPI_Project/Vivado/SPI_Vivado/SPI_Vivado.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+D:/Mohamed/Education/Digital_IC_Design/Projects/Projects/SPI_Project/Vivado/SPI_Vivado/SPI_Vivado.srcs/sources_1/new/RAM.v,1785104629,verilog,,D:/Mohamed/Education/Digital_IC_Design/Projects/Projects/SPI_Project/Vivado/SPI_Vivado/SPI_Vivado.srcs/sources_1/new/SPI_slave.v,,RAM,,,../../../../../../../../../../../../Programs/Vivado/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Mohamed/Education/Digital_IC_Design/Projects/Projects/SPI_Project/Vivado/SPI_Vivado/SPI_Vivado.srcs/sources_1/new/SPI_slave.v,1785104715,verilog,,D:/Mohamed/Education/Digital_IC_Design/Projects/Projects/SPI_Project/Vivado/SPI_Vivado/SPI_Vivado.srcs/sources_1/new/SPI_wrapper.v,,SPI_slave,,,../../../../../../../../../../../../Programs/Vivado/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Mohamed/Education/Digital_IC_Design/Projects/Projects/SPI_Project/Vivado/SPI_Vivado/SPI_Vivado.srcs/sources_1/new/SPI_tb.v,1785105832,verilog,,,,SPI_tb,,,../../../../../../../../../../../../Programs/Vivado/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Mohamed/Education/Digital_IC_Design/Projects/Projects/SPI_Project/Vivado/SPI_Vivado/SPI_Vivado.srcs/sources_1/new/SPI_wrapper.v,1785104788,verilog,,D:/Mohamed/Education/Digital_IC_Design/Projects/Projects/SPI_Project/Vivado/SPI_Vivado/SPI_Vivado.srcs/sources_1/new/SPI_tb.v,,SPI_wrapper,,,../../../../../../../../../../../../Programs/Vivado/2025.1/Vivado/data/rsb/busdef,,,,,

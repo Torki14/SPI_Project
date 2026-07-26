@@ -1,0 +1,202 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dD:/Mohamed/Education/Digital_IC_Design/Projects/Projects/SPI_Project
+T_opt
+!s110 1784037250
+V>:zF66gZ<:h3P=ScR@9_S2
+Z2 04 6 4 work SPI_tb fast 0
+=1-7c8ae1c42221-6a563f82-143-55dc
+Z3 !s124 OEM100
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 tCvgOpt 0
+n@_opt
+Z6 OL;O;2021.1;73
+R1
+T_opt1
+!s110 1785102110
+Vaj^2`WZlF]BCQHlmnf`nf0
+R2
+=1-7c8ae1c42221-6a667f1d-39f-1210
+R3
+R4
+R5
+n@_opt1
+R6
+R1
+vRAM
+Z7 !s110 1785104187
+!i10b 1
+!s100 o9c9A;1IEW927Zhk8=Rhf1
+Iz>N^;n2GAzf>IgdW8a5z=0
+Z8 dD:/Mohamed/Education/Digital_IC_Design/Projects/Projects/SPI_Project/Questasim
+w1783988753
+8RAM.v
+FRAM.v
+!i122 46
+L0 1 57
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+Z10 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z11 !s108 1785104187.000000
+Z12 !s107 SPI_tb.v|SPI_wrapper.v|RAM.v|SPI_slave.v|
+Z13 !s90 -reportprogress|300|SPI_slave.v|RAM.v|SPI_wrapper.v|SPI_tb.v|+cover|-covercells|
+!i113 0
+Z14 !s102 +cover -covercells
+Z15 o+cover -covercells -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R5
+n@r@a@m
+vSPI_slave
+R7
+!i10b 1
+!s100 joQn>Jf^jLlGTeXR^NR:X1
+Ib1A08HZ09ez63NN9@ENTC1
+R8
+w1785099941
+8SPI_slave.v
+FSPI_slave.v
+!i122 46
+L0 1 165
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R15
+R5
+n@s@p@i_slave
+vSPI_tb
+R7
+!i10b 1
+!s100 lYWGU_OcHIERQkIdccNgj3
+IQ<4;?Im]NHcG;il5Sde3d3
+R8
+w1785102100
+Z16 8SPI_tb.v
+Z17 FSPI_tb.v
+!i122 46
+L0 1 123
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R15
+R5
+n@s@p@i_tb
+vSPI_wrapper
+R7
+!i10b 1
+!s100 CKPjUW=ZiEc=DVVEZNJRz0
+Im=3W6ZbZQ5Z4No5MAYgb71
+R8
+w1783985040
+8SPI_wrapper.v
+FSPI_wrapper.v
+!i122 46
+L0 1 43
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R15
+R5
+n@s@p@i_wrapper
+vSPI_wrapper_tb
+!s110 1785099188
+!i10b 1
+!s100 FSSz]D0zM;eb]D7n@ON3a3
+I_R?dQCb2TANi?JOO<k=cV2
+R8
+w1785099161
+R16
+R17
+!i122 23
+L0 1 108
+R9
+R10
+r1
+!s85 0
+31
+!s108 1785099188.000000
+R12
+R13
+!i113 0
+R14
+R15
+R5
+n@s@p@i_wrapper_tb
+vSPI_Wrapper_tb
+!s110 1785099055
+!i10b 1
+!s100 W4TKZ_AOCgo@LIh4G2GAK1
+IV7W1jAi?ic1c2i4l;Tm;41
+R8
+w1785099052
+R16
+R17
+!i122 21
+L0 1 112
+R9
+R10
+r1
+!s85 0
+31
+!s108 1785099055.000000
+R12
+R13
+!i113 0
+R14
+R15
+R5
+n@s@p@i_@wrapper_tb
